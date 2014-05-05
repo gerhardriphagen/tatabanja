@@ -7,5 +7,5 @@ end
 
 get '/hi' do
 	name = params[:name] || 'DEFAULT'
-  	"Hello #{name}"
+  	" Tatabanja #{name}"
 end
